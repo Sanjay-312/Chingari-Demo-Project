@@ -1,0 +1,26 @@
+.sign-button {
+  background-color: #03a9fc;
+  border-radius: 8px;
+  padding: 5px;
+}
+.signout-button {
+  background-color: #fc0324;
+  border-radius: 8px;
+  padding: 5px;
+}
+.container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.b-1 {
+  margin-bottom: 10px;
+}
+.button {
+  background-color: #03a9fc;
+  border-radius: 8px;
+  padding: 5px;
+  margin: 10px;
+}
